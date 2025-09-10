@@ -1,0 +1,16 @@
+../Core/Src/BMP085.c:50:6:BMP085_setAddress	1
+../Core/Src/BMP085.c:58:6:BMP085_initialize	2
+../Core/Src/BMP085.c:68:6:BMP085_testConnection	1
+../Core/Src/BMP085.c:76:6:BMP085_loadCalibration	1
+../Core/Src/BMP085.c:175:9:BMP085_getControl	1
+../Core/Src/BMP085.c:180:6:BMP085_setControl	1
+../Core/Src/BMP085.c:188:10:BMP085_getMeasurement2	1
+../Core/Src/BMP085.c:193:10:BMP085_getMeasurement3	1
+../Core/Src/BMP085.c:198:9:BMP085_getMeasureDelayMilliseconds	7
+../Core/Src/BMP085.c:208:10:BMP085_getMeasureDelayMicroseconds	7
+../Core/Src/BMP085.c:219:10:BMP085_getRawTemperature	2
+../Core/Src/BMP085.c:225:7:BMP085_getTemperatureC	1
+../Core/Src/BMP085.c:242:7:BMP085_getTemperatureF	1
+../Core/Src/BMP085.c:247:10:BMP085_getRawPressure	2
+../Core/Src/BMP085.c:253:7:BMP085_getPressure	2
+../Core/Src/BMP085.c:302:7:BMP085_getAltitude	2
